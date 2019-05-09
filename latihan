@@ -1,0 +1,131 @@
+#EXTINF:-1,TV1 Malay
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,TV2 Malay
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,1NEWS Malay
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,MUZIK AKTIF Malay
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,PARLIMEN TV Malay
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:-1,RTM TV OKEY Malay
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:-1,ASTRO AWANI Malay
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+
+#EXTINF:-1,DA VINCI
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+
+#EXTINF:-1,TVRI SPORTS HD
+http://210.210.155.35/session/c2b1cc2c-7d85-11e8-916f-b82a72d63267/qwr9ew/s/s48/index1.m3u8
+
+#EXTINF:-1,ADSPORT1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,ADSPORT2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+
+#EXTINF:-1,REAL MADRID FC
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MOTOR SPORT
+http://45.58.62.92:8084
+
+#EXTINF:-1,fox sport 2
+http://119.59.125.74/stream/totnew.php?channel_id=02cb79ab0b0c418f847148ca9e2baed4&.m3u8
+
+#EXTINF:-1,FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
+
+#EXTINF:-1,Tivibu Spor
+http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1,FB Sport TR
+https://stream-08.dc3.dailymotion.com/dm/3/x21oo10/live-1.m3u8
+
+#EXTINF:-1,BJK Sport TR
+https://stream-04.dc3.dailymotion.com/dm/3/x31omum/live-1.m3u8
+
+#EXTINF:-1,GS Sport TR
+https://stream-06.dc3.dailymotion.com/dm/3/xne3bf/live-1.m3u8
+
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s82/03.m3u8
+
+#EXTINF:-1,SENTANA SPORT
+http://ott-cdn.ucom.am/s81/03.m3u8
+
+#EXTINF:-1, PPTV HD
+http://119.59.125.74/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a&.m3u8
+
+#EXTINF:-1,RUSSIAN SPORT
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/150/index.m3u8
+
+#EXTINF:-1,Smash Sports
+http://144.76.182.50:25461/live/smash/smash/4.ts
+
+#EXTINF:-1,True Sport HD3
+https://m88.intersteam-idc.com/live54/0x777_2sporthd3_720p/playlist.m3u8
+
+#EXTINF:-1,True Sport HD1
+https://m88.intersteam-idc.com/live54/0x777_2sporthd1_720p/playlist.m3u8
+
+#EXTINF:-1,True Sport HD2
+https://m88.intersteam-idc.com/live54/0x777_2sporthd2_720p/playlist.m3u8
+
+#EXTINF:-1,FIGHTIME
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w1111174434_b2596000.m3u8
+
+#EXTINF:-1,Cinefil WOWOW
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1,Family Gekijyo家庭剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+
+#EXTINF:-1,History历史频道
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+
+#EXTINF:-1,Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1,NHK
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+
+#EXTINF:-1,NTV News24
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1,日本朝日台
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+
+#EXTINF:-1,日本映画 Nihon Eiga TV
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+
+#EXTINF:-1,卫星剧场Eisei Gekijo
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+
+#EXTINF:-1,Rajawali TV
+rtp://@239.1.2.69:8388
+
+#EXTINF:-1,Lejel Home Shopping
+rtp://@239.1.2.3:7992
+
+#EXTINF:-1,Kompas TV
+rtp://@239.1.2.197:9156
+
+#EXTINF:-1,Berita Satu
+rtp://@239.1.2.183:9072
+
+#EXTINF:-1,Jak TV
+rtp://@239.1.2.107:8616
+
+#EXTINF:-1,TV Edukasi
+rtp://@239.1.2.39:8208
+
+#EXTINF:-1,NET TV
+rtp://@239.1.2.119:8688
